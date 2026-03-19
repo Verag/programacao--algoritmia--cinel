@@ -1,0 +1,15 @@
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma02/bin/Debug/net10.0/fluxograma02
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma02/bin/Debug/net10.0/fluxograma02.deps.json
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma02/bin/Debug/net10.0/fluxograma02.runtimeconfig.json
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma02/bin/Debug/net10.0/fluxograma02.dll
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma02/bin/Debug/net10.0/fluxograma02.pdb
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma02/obj/Debug/net10.0/fluxograma02.GeneratedMSBuildEditorConfig.editorconfig
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma02/obj/Debug/net10.0/fluxograma02.AssemblyInfoInputs.cache
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma02/obj/Debug/net10.0/fluxograma02.AssemblyInfo.cs
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma02/obj/Debug/net10.0/fluxograma02.csproj.CoreCompileInputs.cache
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma02/obj/Debug/net10.0/fluxograma02.sourcelink.json
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma02/obj/Debug/net10.0/fluxograma02.dll
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma02/obj/Debug/net10.0/refint/fluxograma02.dll
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma02/obj/Debug/net10.0/fluxograma02.pdb
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma02/obj/Debug/net10.0/fluxograma02.genruntimeconfig.cache
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma02/obj/Debug/net10.0/ref/fluxograma02.dll

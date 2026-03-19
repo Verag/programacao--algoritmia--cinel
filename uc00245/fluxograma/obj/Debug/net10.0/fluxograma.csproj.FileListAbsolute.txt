@@ -1,0 +1,15 @@
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma/bin/Debug/net10.0/fluxograma
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma/bin/Debug/net10.0/fluxograma.deps.json
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma/bin/Debug/net10.0/fluxograma.runtimeconfig.json
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma/bin/Debug/net10.0/fluxograma.dll
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma/bin/Debug/net10.0/fluxograma.pdb
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma/obj/Debug/net10.0/fluxograma.GeneratedMSBuildEditorConfig.editorconfig
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma/obj/Debug/net10.0/fluxograma.AssemblyInfoInputs.cache
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma/obj/Debug/net10.0/fluxograma.AssemblyInfo.cs
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma/obj/Debug/net10.0/fluxograma.csproj.CoreCompileInputs.cache
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma/obj/Debug/net10.0/fluxograma.sourcelink.json
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma/obj/Debug/net10.0/fluxograma.dll
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma/obj/Debug/net10.0/refint/fluxograma.dll
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma/obj/Debug/net10.0/fluxograma.pdb
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma/obj/Debug/net10.0/fluxograma.genruntimeconfig.cache
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00245/fluxograma/obj/Debug/net10.0/ref/fluxograma.dll
