@@ -28,6 +28,27 @@ namespace Fuxograma02
             } // fim do while
                 
 
+                //acabaram os documentos
+                Console.WriteLine("JÁ NÃO TEM DOCUMENTOS");
+                Console.WriteLine("AINDA TEM ATIVIDADE");
+
+                //variável do tipo booleana
+                bool temAtividade = true; //true ou false
+
+                if(temAtividade) // se tem atividade for true,
+                {
+                    Console.WriteLine("SIM TEM ATIVIDADE");
+                }
+                else
+                {
+                    Console.WriteLine("NÃO TEM ATIVIDADE");
+                }
+
+                // BLOCO DO FIM
+                Console.WriteLine("6. FIM");
+
+                Console.WriteLine("\n ****** FIM DO PROGRAMA *****");
+
 
             
             //fim
@@ -42,6 +63,4 @@ namespace Fuxograma02
     
 
         } //fim do método main
-    } //fim de classe program
-    
-} //fim do namespace
+        
