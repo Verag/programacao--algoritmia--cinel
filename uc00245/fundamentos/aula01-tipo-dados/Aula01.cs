@@ -13,6 +13,11 @@ namespace Fundamentos01
             VariaveisETiposDeDados variaveisETiposDeDados = new VariaveisETiposDeDados();
             variaveisETiposDeDados.Executar();
 
+            Console.WriteLine();// linha em branco para separar tópicos
+
+            OperadoresAritmeticos operadoresAritmeticos = new OperadoresAritmeticos();
+            operadoresAritmeticos.Executar();
+
             //fim
             this.ResumoAula();
         }
