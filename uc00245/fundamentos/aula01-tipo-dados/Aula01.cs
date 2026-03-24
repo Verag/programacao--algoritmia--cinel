@@ -1,4 +1,5 @@
 using System;
+using Fundamentos;
 
 namespace Fundamentos01
 {
@@ -8,6 +9,10 @@ namespace Fundamentos01
         {
             //início
             this.ExibirCabecalho();
+
+            VariaveisETiposDeDados variaveisETiposDeDados = new VariaveisETiposDeDados();
+            variaveisETiposDeDados.Executar();
+
             //fim
             this.ResumoAula();
         }
