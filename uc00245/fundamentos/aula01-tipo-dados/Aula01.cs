@@ -18,6 +18,16 @@ namespace Fundamentos01
             OperadoresAritmeticos operadoresAritmeticos = new OperadoresAritmeticos();
             operadoresAritmeticos.Executar();
 
+            Console.WriteLine();// linha em branco para separar tópicos
+
+            OperadoresComparacao operadoresComparacao = new OperadoresComparacao();
+            operadoresComparacao.Executar();
+
+            Console.WriteLine();// linha em branco para separar tópicos
+            
+            OperadoresLogicos operadoresLogicos = new OperadoresLogicos();
+            operadoresLogicos.Executar();
+
             //fim
             this.ResumoAula();
         }

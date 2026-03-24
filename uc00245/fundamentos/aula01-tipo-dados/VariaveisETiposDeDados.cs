@@ -4,7 +4,8 @@ namespace Fundamentos;
 
 public class VariaveisETiposDeDados
 {
-    string sobreNome = "mutiz";
+
+   
 
     public void Executar()
     {
