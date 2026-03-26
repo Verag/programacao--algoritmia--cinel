@@ -28,7 +28,14 @@ namespace Fundamentos01
             OperadoresLogicos operadoresLogicos = new OperadoresLogicos();
             operadoresLogicos.Executar();
 
-            //fim
+            ExerciciosVariaveisETiposDeDados exercicios_var = new ExerciciosVariaveisETiposDeDados();
+            exercicios_var.Executar();
+
+            AlunoOperadoresLogicos exercicios_logicos = new AlunoOperadoresLogicos();
+            exercicios_logicos.Executar();
+
+
+            //f
             this.ResumoAula();
         }
 
