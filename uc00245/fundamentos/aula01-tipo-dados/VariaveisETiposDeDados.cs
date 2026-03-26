@@ -1,6 +1,6 @@
 using System;
 
-namespace Fundamentos;
+namespace Fundamentos01;
 
 public class VariaveisETiposDeDados
 {

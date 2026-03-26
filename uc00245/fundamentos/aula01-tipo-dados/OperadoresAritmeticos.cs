@@ -1,5 +1,5 @@
 
-namespace Fundamentos;
+namespace Fundamentos01;
 public class OperadoresAritmeticos
 {
     public void Executar() // método ("vai à porta mas não traz nada de volta")
