@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/ExerciciosEstruturaControlo/ExerciciosEstruturaControlo.csproj": {}
+    "/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExercRevisao/ExercRevisao.csproj": {}
   },
   "projects": {
-    "/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/ExerciciosEstruturaControlo/ExerciciosEstruturaControlo.csproj": {
+    "/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExercRevisao/ExercRevisao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/ExerciciosEstruturaControlo/ExerciciosEstruturaControlo.csproj",
-        "projectName": "ExerciciosEstruturaControlo",
-        "projectPath": "/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/ExerciciosEstruturaControlo/ExerciciosEstruturaControlo.csproj",
+        "projectUniqueName": "/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExercRevisao/ExercRevisao.csproj",
+        "projectName": "ExercRevisao",
+        "projectPath": "/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExercRevisao/ExercRevisao.csproj",
         "packagesPath": "/home/vera/.nuget/packages/",
-        "outputPath": "/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/ExerciciosEstruturaControlo/obj/",
+        "outputPath": "/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExercRevisao/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vera/.nuget/NuGet/NuGet.Config"

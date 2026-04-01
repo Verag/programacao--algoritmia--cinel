@@ -1,0 +1,15 @@
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExercRevisao/obj/Debug/net10.0/ExercRevisao.GeneratedMSBuildEditorConfig.editorconfig
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExercRevisao/obj/Debug/net10.0/ExercRevisao.AssemblyInfoInputs.cache
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExercRevisao/obj/Debug/net10.0/ExercRevisao.AssemblyInfo.cs
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExercRevisao/obj/Debug/net10.0/ExercRevisao.csproj.CoreCompileInputs.cache
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExercRevisao/obj/Debug/net10.0/ExercRevisao.sourcelink.json
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExercRevisao/bin/Debug/net10.0/ExercRevisao
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExercRevisao/bin/Debug/net10.0/ExercRevisao.deps.json
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExercRevisao/bin/Debug/net10.0/ExercRevisao.runtimeconfig.json
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExercRevisao/bin/Debug/net10.0/ExercRevisao.dll
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExercRevisao/bin/Debug/net10.0/ExercRevisao.pdb
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExercRevisao/obj/Debug/net10.0/ExercRevisao.dll
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExercRevisao/obj/Debug/net10.0/refint/ExercRevisao.dll
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExercRevisao/obj/Debug/net10.0/ExercRevisao.pdb
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExercRevisao/obj/Debug/net10.0/ExercRevisao.genruntimeconfig.cache
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExercRevisao/obj/Debug/net10.0/ref/ExercRevisao.dll
