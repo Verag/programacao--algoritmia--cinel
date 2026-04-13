@@ -6,11 +6,13 @@ class Program
     {
         Console.WriteLine("Estrutura de dados\n");
 
-        EstruturaDeIteracao estruturaDeIteracao = new EstruturaDeIteracao();
+/*         EstruturaDeIteracao estruturaDeIteracao = new EstruturaDeIteracao();
         estruturaDeIteracao.ExecutarFor();
         estruturaDeIteracao.ExecutarForEach();
         estruturaDeIteracao.ExecutarForBreakContinue();
-        estruturaDeIteracao.ExecutarWhile();
+        estruturaDeIteracao.ExecutarWhile(); */
+        ArrayUnidimensional arrayUnidimensional = new ArrayUnidimensional();
+        arrayUnidimensional.ExecutarArrayUnidimensional();
 
     }
 } //fim da classe Program
