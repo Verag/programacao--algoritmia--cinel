@@ -11,8 +11,14 @@ class Program
         estruturaDeIteracao.ExecutarForEach();
         estruturaDeIteracao.ExecutarForBreakContinue();
         estruturaDeIteracao.ExecutarWhile(); */
-        ArrayUnidimensional arrayUnidimensional = new ArrayUnidimensional();
-        arrayUnidimensional.ExecutarArrayUnidimensional();
+/*         ArrayUnidimensional arrayUnidimensional = new ArrayUnidimensional();
+        arrayUnidimensional.ExecutarArrayUnidimensional(); */
+
+        ManipulacaoDeString manipulacaoDeString = new ManipulacaoDeString();
+        manipulacaoDeString.ExecutarMetodosBasicos();
+        manipulacaoDeString.ExecutarBuscaExtraccao();
+        manipulacaoDeString.ExecutarModificacao();
+        manipulacaoDeString.ExecutarDivisaoEJuncao();
 
     }
 } //fim da classe Program
