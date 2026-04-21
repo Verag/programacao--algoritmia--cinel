@@ -21,8 +21,8 @@ Dotar os formandos com os **conhecimentos base de programação e algoritmia**, 
 | Código   | Designação                                           | Duração | Conteúdo Principal |
 |----------|------------------------------------------------------|---------|--------------------|
 | UC00245  | Desenvolver algoritmos                               | 25h     | Pseudocódigo, fluxogramas, estruturas de controlo, complexidade, recursividade, ordenação e pesquisa básica |
-| UC00606  | Desenvolver programas em linguagem estruturada      | 50h     | Conceitos de programação estruturada (provavelmente em C ou similar): variáveis, funções, arrays, ponteiros, ficheiros, modularidade |
-| UC00608  | Desenvolver programas em linguagem orientada a objetos | 50h  | Paradigma OOP (provavelmente em Java, C# ou Python): classes, objetos, herança, polimorfismo, encapsulamento, interfaces/abstract classes |
+| UC00606  | Desenvolver programas em linguagem estruturada      | 50h     | Conceitos de programação estruturada (C# ): variáveis, funções, arrays, ponteiros, ficheiros, modularidade |
+| UC00608  | Desenvolver programas em linguagem orientada a objetos | 50h  | Paradigma OOP (Java ): classes, objetos, herança, polimorfismo, encapsulamento, interfaces/abstract classes |
 
 ## Conteúdo deste Repositório
 
@@ -30,18 +30,13 @@ Dotar os formandos com os **conhecimentos base de programação e algoritmia**, 
 
 ## Pré-requisitos da Formação (originais do CINEL)
 
-- Idade ≥ 18 anos
-- Habilitações mínimas: 9º ano (com chancela do Ministério da Educação)
-- Empregado ou desempregado
 - Equipamento mínimo (para online): Intel Core i5 ou equiv., 8 GB RAM, 350 GB disco, webcam + microfone
 
 ## Tecnologias e Linguagens Utilizadas
 
 - **Algoritmia**: Pseudocódigo + fluxogramas
-- **Estruturada**: C (ou equivalente: Python procedural, Pascal)
-- **Orientada a Objetos**: Java / C# / Python (com classes)
-
-(Adapta conforme a linguagem efetivamente usada na tua turma.)
+- **Estruturada**: C# 
+- **Orientada a Objetos**: Java 
 
 ## Como Usar / Contribuir
 
