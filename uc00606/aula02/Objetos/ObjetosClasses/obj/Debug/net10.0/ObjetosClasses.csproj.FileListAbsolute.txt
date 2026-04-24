@@ -1,0 +1,15 @@
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula02/Objetos/ObjetosClasses/obj/Debug/net10.0/ObjetosClasses.GeneratedMSBuildEditorConfig.editorconfig
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula02/Objetos/ObjetosClasses/obj/Debug/net10.0/ObjetosClasses.AssemblyInfoInputs.cache
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula02/Objetos/ObjetosClasses/obj/Debug/net10.0/ObjetosClasses.AssemblyInfo.cs
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula02/Objetos/ObjetosClasses/obj/Debug/net10.0/ObjetosClasses.csproj.CoreCompileInputs.cache
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula02/Objetos/ObjetosClasses/obj/Debug/net10.0/ObjetosClasses.sourcelink.json
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula02/Objetos/ObjetosClasses/bin/Debug/net10.0/ObjetosClasses
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula02/Objetos/ObjetosClasses/bin/Debug/net10.0/ObjetosClasses.deps.json
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula02/Objetos/ObjetosClasses/bin/Debug/net10.0/ObjetosClasses.runtimeconfig.json
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula02/Objetos/ObjetosClasses/bin/Debug/net10.0/ObjetosClasses.dll
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula02/Objetos/ObjetosClasses/bin/Debug/net10.0/ObjetosClasses.pdb
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula02/Objetos/ObjetosClasses/obj/Debug/net10.0/ObjetosClasses.dll
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula02/Objetos/ObjetosClasses/obj/Debug/net10.0/refint/ObjetosClasses.dll
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula02/Objetos/ObjetosClasses/obj/Debug/net10.0/ObjetosClasses.pdb
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula02/Objetos/ObjetosClasses/obj/Debug/net10.0/ObjetosClasses.genruntimeconfig.cache
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula02/Objetos/ObjetosClasses/obj/Debug/net10.0/ref/ObjetosClasses.dll
