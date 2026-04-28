@@ -1,0 +1,15 @@
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExerMetodos/obj/Debug/net10.0/ExerMetodos.GeneratedMSBuildEditorConfig.editorconfig
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExerMetodos/obj/Debug/net10.0/ExerMetodos.AssemblyInfoInputs.cache
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExerMetodos/obj/Debug/net10.0/ExerMetodos.AssemblyInfo.cs
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExerMetodos/obj/Debug/net10.0/ExerMetodos.csproj.CoreCompileInputs.cache
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExerMetodos/obj/Debug/net10.0/ExerMetodos.sourcelink.json
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExerMetodos/bin/Debug/net10.0/ExerMetodos
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExerMetodos/bin/Debug/net10.0/ExerMetodos.deps.json
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExerMetodos/bin/Debug/net10.0/ExerMetodos.runtimeconfig.json
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExerMetodos/bin/Debug/net10.0/ExerMetodos.dll
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExerMetodos/bin/Debug/net10.0/ExerMetodos.pdb
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExerMetodos/obj/Debug/net10.0/ExerMetodos.dll
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExerMetodos/obj/Debug/net10.0/refint/ExerMetodos.dll
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExerMetodos/obj/Debug/net10.0/ExerMetodos.pdb
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExerMetodos/obj/Debug/net10.0/ExerMetodos.genruntimeconfig.cache
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/ExerMetodos/obj/Debug/net10.0/ref/ExerMetodos.dll
