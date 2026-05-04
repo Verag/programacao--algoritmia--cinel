@@ -4,7 +4,8 @@ package com.example;
 class Calculadora {
 
     // Variáveis membro do tipo float
-    float Num1, Num2;
+    private float Num1, Num2; // encapsulamento(só aceder dentro da própria classe e não ser modificada por outras classes
+    
 
     // Getters
     public float getNum1() {
@@ -25,6 +26,7 @@ class Calculadora {
     }
 
     // Métodos
+    //boa prática usar o 'this' para referenciar as variáveis membro da classe, evitando confusão com os parâmetros do método
     public float Somar() {
         return Num1 + Num2;
     }
