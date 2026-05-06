@@ -2,7 +2,7 @@ package com.example;
 
 import javax.swing.JOptionPane;
 
-class Veiculo{
+public class Veiculo{
 
     //Atributos
     private String Marca, Modelo, Combustivel;
