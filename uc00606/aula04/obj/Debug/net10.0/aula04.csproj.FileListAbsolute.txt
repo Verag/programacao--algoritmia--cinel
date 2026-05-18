@@ -1,0 +1,15 @@
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula04/obj/Debug/net10.0/aula04.GeneratedMSBuildEditorConfig.editorconfig
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula04/obj/Debug/net10.0/aula04.AssemblyInfoInputs.cache
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula04/obj/Debug/net10.0/aula04.AssemblyInfo.cs
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula04/obj/Debug/net10.0/aula04.csproj.CoreCompileInputs.cache
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula04/obj/Debug/net10.0/aula04.sourcelink.json
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula04/bin/Debug/net10.0/aula04
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula04/bin/Debug/net10.0/aula04.deps.json
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula04/bin/Debug/net10.0/aula04.runtimeconfig.json
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula04/bin/Debug/net10.0/aula04.dll
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula04/bin/Debug/net10.0/aula04.pdb
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula04/obj/Debug/net10.0/aula04.dll
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula04/obj/Debug/net10.0/refint/aula04.dll
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula04/obj/Debug/net10.0/aula04.pdb
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula04/obj/Debug/net10.0/aula04.genruntimeconfig.cache
+/home/vera/programacao--algoritmia--cinel/programacao--algoritmia--cinel/uc00606/aula04/obj/Debug/net10.0/ref/aula04.dll
