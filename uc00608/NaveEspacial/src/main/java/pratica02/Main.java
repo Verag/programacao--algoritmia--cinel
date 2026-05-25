@@ -20,7 +20,7 @@ class NaveExploracao extends NaveEspacial {
         if (distancia < 0) distancia = 0;
         
         float consumo = (distancia / 10.0f) * 1.0f; // 1% a cada 10 unidades
-        combustivel -= consumo;
+        combustivel -= consumo; // Reduz o combustível com base na distância percorrida
         
         if (combustivel < 0) combustivel = 0;
     }
